@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    background-color:gray;
+    font-family: 'Roboto', sans-serif;
+}
+
+nav{
+    background-color: blue;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 16pt;
+}
